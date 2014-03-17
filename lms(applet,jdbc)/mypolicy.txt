@@ -1,0 +1,11 @@
+grant{
+permission java.util.PropertyPermission "oracle.net.wallet_location" , "read";
+permission java.util.PropertyPermission "oracle.jdbc.TcpNoDelay" , "read";
+permission java.util.PropertyPermission "oracle.jdbc.defaultNChar" , "read";
+permission java.util.PropertyPermission "oracle.jdbc.useFetchSizeWithLongColumn" , "read";
+permission java.util.PropertyPermission "oracle.jdbc.convertNcharLiterals" , "read";
+permission java.net.SocketPermission "127.0.0.1:1521" , "connect,resolve";
+permission java.util.PropertyPermission "user.name" , "read";
+permission java.util.PropertyPermission "oracle.jdbc.V8Compatible" , "read";
+permission java.util.PropertyPermission "oracle.jdbc.J2EE13Compliant" , "read";
+};

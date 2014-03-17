@@ -1,0 +1,29 @@
+CS100.002-Principles of Programming Languages-Sebesta-available
+CS100.003-Principles of Programming Languages-Sebesta-availablenot
+CS100.005-Principles of Programming Languages-Sebesta-availablenot
+CS100.006-Principles of Programming Languages-Sebesta-available
+CS100.007-Principles of Programming Languages-Sebesta-available
+CS100.008-Principles of Programming Languages-Sebesta-available
+CS100.009-Principles of Programming Languages-Sebesta-available
+CS100.010-Principles of Programming Languages-Sebesta-available
+CS100.004-Principles of Programming Languages-Sebesta-available
+CS100.001-Principles of Programmin Languages-Sebesta-available
+CS200.001-Software Engineering-Pressman-available
+CS200.004-Software Engineering-Pressman-available
+CS200.005-Software Engineering-Pressman-available
+CS200.006-Software Engineering-Pressman-available
+CS200.007-Software Engineering-Pressman-available
+CS200.008-Software Engineering-Pressman-available
+CS200.009-Software Engineering-Pressman-available
+CS200.010-Software Engineering-Pressman-available
+CS300.001-Java CR-Schildt-available
+CS300.002-Java CR-Schildt-available
+CS300.003-Java CR-Schildt-available
+CS300.004-Java CR-Schildt-available
+CS300.005-Java CR-Schildt-available
+CS300.006-Java CR-Schildt-available
+CS300.007-Java CR-Schildt-available
+CS300.008-Java CR-Schildt-available
+CS300.009-Java CR-Schildt-available
+CS300.010-Java CR-Schildt-availablenot
+CS200.002-Software Engineering-Pressman-available
